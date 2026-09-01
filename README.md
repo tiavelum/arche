@@ -1,7 +1,15 @@
 To grow a world of thought and code from nothing, one deliberate and argued
 step at a time, so that everything in it exists by a visible decision.
 
+## Law
+
+Nothing enters this world except by a step proposed, argued, and decided
+by the creator.
+
 ## Decisions
+
+This list is an index. The record lives in the history.
 
 1. The intent, stated above, and this file to hold it.
 2. Every change is tracked. History begins.
+3. The law, stated above. Decisions live in their commits; this list becomes an index.
