@@ -14,3 +14,4 @@ This list is an index. The record lives in the history.
 2. Every change is tracked. History begins.
 3. The law, stated above. Decisions live in their commits; this list becomes an index.
 4. Claude's hand may enact decided steps; every commit names its true hand.
+5. Commit messages: title names the decision, body states it, argues it, names the hands.
